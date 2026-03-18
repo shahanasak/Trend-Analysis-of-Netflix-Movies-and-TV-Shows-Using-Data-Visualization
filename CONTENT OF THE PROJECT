@@ -1,0 +1,11 @@
+#PROJECT TITLE :Trend Analysis of Netflix Movies and TV Shows Using Data Visualization.
+#PROJECT CONTENT:This project focuses on analyzing trends in Netflix movies and TV shows using data visualization techniques.
+With the rapid growth of digital streaming platforms, understanding content trends has become essential for identifying audience preferences and industry patterns.
+The dataset used in this project contains detailed information about Netflix titles, including type, genre, release year, runtime, and audience ratings.
+The first stage of the project involved data cleaning and preprocessing using Microsoft Excel. Several important steps were performed to ensure the quality and consistency of the data.
+These included removing duplicate records, handling missing values in columns such as IMDb votes and seasons, correcting encoding errors in text fields, and standardizing formats for numerical and categorical data. Additional transformations, such as creating calculated fields and organizing the dataset, were also carried out to make the data suitable for analysis.
+After preprocessing, the cleaned dataset was imported into Microsoft Power BI to build an interactive and visually appealing dashboard.
+Various types of visualizations were used, including bar charts to compare movies and TV shows, line charts to analyze content growth over time, pie charts to represent genre distribution, and card visuals to display key metrics such as total titles and average ratings.
+Interactive features such as slicers and filters were added to enhance user experience, allowing dynamic exploration of the data.
+Overall, this project demonstrates how data visualization tools can effectively transform raw data into meaningful insights, supporting better analysis and decision-making.
+#TABLE OF CONTENT:
