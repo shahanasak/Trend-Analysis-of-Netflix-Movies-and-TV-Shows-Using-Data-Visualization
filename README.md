@@ -1,4 +1,4 @@
-# Trend-Analysis-of-Netflix-Movies-and-TV-Shows-Using-Data-Visualization
+# Trend-Analysis-of-Netflix-Movies-and-TV-Shows-Using-Data-Visualization.
 This project analyzes Netflix movies and TV shows using data visualization. Data was cleaned in Excel and visualized in Microsoft Power BI using charts and slicers to show trends, genres, and ratings, helping generate meaningful insights for decision-making.
 # CONTENT OF PROJECT:This project focuses on analyzing trends in Netflix movies and TV shows using data visualization techniques.
 With the rapid growth of digital streaming platforms, understanding content trends has become essential for identifying audience preferences and industry patterns.
